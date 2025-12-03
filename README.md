@@ -1,3 +1,3 @@
 # eva-seed
 
-Initial scaffold for data seeding (Cosmos, Search, catalogs, tenants).
+Initial scaffold for EVA module: eva-seed.
